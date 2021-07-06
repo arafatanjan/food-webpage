@@ -29,3 +29,7 @@ section{
     font-weight: 50;
     border-radius: 10px;
 }
+.About-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}

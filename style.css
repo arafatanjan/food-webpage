@@ -60,3 +60,7 @@ section{
 .food-network p{
     text-align: justify;
 }
+
+.flexible-container{
+    display: none;
+}

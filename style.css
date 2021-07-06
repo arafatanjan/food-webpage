@@ -32,4 +32,31 @@ section{
 .About-me{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    margin-bottom: 5px;
+}
+.recipie{
+    padding: 1px 400px;
+    margin-bottom: 20px;
+}
+.blog-tittle{
+    text-align: center;
+}
+.recipie p{
+    text-align: center;
+}
+.items{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.food-network{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.food-network p{
+    text-align: justify;
 }
